@@ -51,7 +51,7 @@ Based on my research this address belongs to Google Cloud Storage, which attacke
 | --- | --- | --- |
 | **SPF** | **PASS** | The attacker used Mailgun’s pre-approved SPF records. |
 | **DKIM** | **FAIL** | DKIM signature is completely missing. |
-| **DMARC** | **NONE** | The domain has no DMARC record. |
+| **DMARC** | **FAIL** | The domain has no DMARC record. |
 | **ARC** | **FAIL** | Authentication chain is broken. Message marked as untrusted. |
 
 # Originating IP Analysis
