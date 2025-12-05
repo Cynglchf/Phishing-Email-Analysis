@@ -5,7 +5,7 @@ The project aims to analyse and evaluate the data contained in a real phishing e
 Do not visit these addresses under any circumstances unless you have the necessary expertise and a secure isolated environment.
 
 
-# Phishing Message Content
+# Phishing Email Content
 
 The email is a phishing attempt designed to create a sense of urgency and threat prompting the recipient to click a link without careful consideration. While it appears to come from “McAfee,” it contains multiple signs of forgery and malicious intent. 
 The email is shown below for reference:
